@@ -28,23 +28,24 @@ src/
 │   └── java/
 │       └── pl/
 │           └── rafalzbanski/
-│               ├── components/
-│               │   ├── CompositeComponent.java
-│               │   ├── Branch.java
-│               │   ├── Trunk.java
-│               │   ├── Leaf.java
-│               │   └── Needle.java
-│               ├── coniferous/
-│               │   ├── ConiferousTree.java
-│               │   └── Pine.java
-│               ├── deciduous/
-│               │   ├── DeciduousTree.java
-│               │   └── Birch.java
-│               ├── main/
+│               ├── app/
 │               │   └── Main.java
-│               └── tree/
+│               └── model/
+│                   ├── components/
+│                   │   ├── CompositeComponent.java
+│                   │   ├── Branch.java
+│                   │   ├── Trunk.java
+│                   │   ├── Leaf.java
+│                   │   └── Needle.java
 │                   ├── TreeComponent.java
-│                   └── Tree.java
+│                   └── trees/
+│                       ├── Tree.java
+│                       ├── deciduous/
+│                       │   ├── DeciduousTree.java
+│                       │   └── Birch.java
+│                       └── coniferous/
+│                           ├── ConiferousTree.java
+│                           └── Pine.java
 
 ```
 
