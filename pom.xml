@@ -37,7 +37,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>pl.rafalzbanski.main.Main</mainClass>
+                            <mainClass>pl.rafalzbanski.app.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

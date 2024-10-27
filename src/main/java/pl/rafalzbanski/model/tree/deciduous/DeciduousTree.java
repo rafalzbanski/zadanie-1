@@ -1,6 +1,6 @@
-package pl.rafalzbanski.deciduous;
+package pl.rafalzbanski.model.tree.deciduous;
 
-import pl.rafalzbanski.tree.Tree;
+import pl.rafalzbanski.model.tree.Tree;
 
 /**
  * Abstract class representing a deciduous tree.

@@ -1,10 +1,10 @@
-package pl.rafalzbanski.main;
+package pl.rafalzbanski.app;
 
-import pl.rafalzbanski.components.Branch;
-import pl.rafalzbanski.components.Leaf;
-import pl.rafalzbanski.components.Needle;
-import pl.rafalzbanski.coniferous.Pine;
-import pl.rafalzbanski.deciduous.Birch;
+import pl.rafalzbanski.model.components.Branch;
+import pl.rafalzbanski.model.components.Leaf;
+import pl.rafalzbanski.model.components.Needle;
+import pl.rafalzbanski.model.tree.coniferous.Pine;
+import pl.rafalzbanski.model.tree.deciduous.Birch;
 
 /**
  * Main application class for testing.

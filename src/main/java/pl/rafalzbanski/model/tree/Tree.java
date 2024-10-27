@@ -1,6 +1,6 @@
-package pl.rafalzbanski.tree;
+package pl.rafalzbanski.model.tree;
 
-import pl.rafalzbanski.components.Trunk;
+import pl.rafalzbanski.model.components.Trunk;
 
 /**
  * Abstract base class for trees.

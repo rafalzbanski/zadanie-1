@@ -1,4 +1,4 @@
-package pl.rafalzbanski.coniferous;
+package pl.rafalzbanski.model.tree.coniferous;
 
 /**
  * Class representing a pine tree. (sosna)

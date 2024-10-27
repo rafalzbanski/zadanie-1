@@ -1,4 +1,4 @@
-package pl.rafalzbanski.tree;
+package pl.rafalzbanski.model;
 
 /**
  * Abstract class representing a tree component.

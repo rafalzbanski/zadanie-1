@@ -1,4 +1,4 @@
-package pl.rafalzbanski.components;
+package pl.rafalzbanski.model.components;
 
 /**
  * Class representing a trunk.

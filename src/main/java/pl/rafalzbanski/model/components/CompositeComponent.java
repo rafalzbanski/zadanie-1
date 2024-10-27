@@ -1,7 +1,7 @@
-package pl.rafalzbanski.components;
+package pl.rafalzbanski.model.components;
 
 
-import pl.rafalzbanski.tree.TreeComponent;
+import pl.rafalzbanski.model.TreeComponent;
 import java.util.ArrayList;
 import java.util.List;
 

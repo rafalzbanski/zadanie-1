@@ -1,7 +1,7 @@
-package pl.rafalzbanski.coniferous;
+package pl.rafalzbanski.model.tree.coniferous;
 
 
-import pl.rafalzbanski.tree.Tree;
+import pl.rafalzbanski.model.tree.Tree;
 
 /**
  * Abstract class representing a coniferous tree.

@@ -1,4 +1,4 @@
-package pl.rafalzbanski.deciduous;
+package pl.rafalzbanski.model.tree.deciduous;
 
 /**
  * Class representing a birch tree. (brzoza)

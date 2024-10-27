@@ -1,6 +1,6 @@
-package pl.rafalzbanski.components;
+package pl.rafalzbanski.model.components;
 
-import pl.rafalzbanski.tree.TreeComponent;
+import pl.rafalzbanski.model.TreeComponent;
 
 /**
  * Class representing a leaf of a deciduous tree.
